@@ -1,0 +1,3 @@
+Projekat APS
+
+Igra tablic, pri cemu se igra preko mreze.Najveci broj igraca koji je podrzan je 4.Za implementaciju se koristi programski jezik java. Za realizaciju vizuelnog dela igre koristi se JHotDraw Framework 5.1. Komunikacija izmedju racunara klijenata se realizuje pomocu message-passing frameworka ZeroMQ (JeroMQ). Igru je moguce snimiti u datom momentu i nastaviti kasnije. Takodje igra omogucava pracenje statistike rezultata korisnika. Sama perzistencija realizuje se pomocu objektivno-relacionog mapera Hibernate. Clanovi tima su: Miodrag Tomic 12802. Zaduzenja: Za sve je zaduzen Miodrag Tomic.
